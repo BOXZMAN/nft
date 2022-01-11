@@ -1,0 +1,138 @@
+/* 
+.card {
+    width: 300px;
+    padding: 12px;
+    border: 2px solid black;
+    margin: auto;
+    height: 500px;
+    margin-top: 50px;
+
+
+    
+}
+
+.eth    {
+    height: 208px;
+}
+
+.eth img {
+    height: 250px;
+    width: 300px;
+    margin: auto;
+}
+
+.content    {width: 300px;
+            height: 208px;
+
+}
+
+.me{    
+    width: inherit;
+    position: relative;
+}
+
+.minieth {
+    display: inline;
+}
+
+.minieth2 {
+    display: inline;
+    position: absolute;
+    right: 0px;
+}
+
+.line   {border-bottom: thick black;
+}
+
+.footer img{border-radius: 300px;
+            border: 20px black;
+} */
+
+body{
+     background-color: rgb(10ddd    , 10, 48);
+     /* background-color: brown; */
+}
+
+.card   {background-color: rgb(27, 28, 68);
+        border: thin black;
+        margin: auto;
+        width: 300px;
+        height: 520px;
+        padding: 20px;
+        color: white;
+        border-radius: 15px;
+}
+
+.text   p{font-style: bold;
+
+
+
+}
+
+
+
+.big img {width: 300px;border-radius: 10px;
+
+
+
+}
+/* .mine    {
+        
+        border-width: 3px;
+        width: 300px;
+        position: relative;
+        display: grid;
+
+
+
+}
+.mini {
+    display: flex;
+    align-items: center;
+    position: relative;
+    color: lightblue;       
+}
+.mine img{border-radius: 80px;}
+
+
+.minie{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 0px;   
+}
+     
+.minie img{border-radius: 80px;}         */
+
+
+.mine{
+    display: flex;
+}
+
+.minie{
+    margin-left: auto;
+}
+
+
+.line{
+    border-bottom: solid thin white;
+}
+
+
+.me{
+    width: inherit;
+    display: grid;
+    position: relative;
+}
+
+.write  {
+    display: grid;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 50px;
+    color: white;
+}        
+        
+.me img {border-radius: 150px;
+}
+
